@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationfredericksburg.com/sitemap.xml
